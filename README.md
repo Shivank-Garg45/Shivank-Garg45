@@ -1,16 +1,91 @@
-## Hi there 👋
+# Hi, I'm Shivank Garg 👋
 
-<!--
-**Shivank-Garg45/Shivank-Garg45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### CSE Student | Software Developer | Systems & Backend Enthusiast
 
-Here are some ideas to get you started:
+I enjoy building practical software projects and exploring how systems work under the hood.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently focused on **C/C++, DSA, backend development, system programming, and full-stack development.**
+
+---
+
+## 🚀 What I'm Working On
+
+- 🔧 Building system-oriented projects in C/C++
+- 🌐 Developing backend and full-stack applications
+- 🧠 Strengthening DSA and problem-solving
+- 💻 Exploring Operating Systems, Computer Networks and Computer Architecture
+- 🚀 Building projects that solve real-world problems
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+- C
+- C++
+- Java
+- JavaScript
+
+### Backend & Systems
+
+- Node.js
+- REST APIs
+- Socket Programming
+- Multithreading
+- POSIX Threads
+
+### Databases
+
+- PostgreSQL
+- MySQL
+- Redis
+
+### Frontend
+
+- HTML
+- CSS
+- JavaScript
+- React.js
+
+### Tools
+
+- Git
+- GitHub
+- Docker
+- Linux
+- VS Code
+- Make
+- CMake
+
+---
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Operating Systems
+- Computer Networks
+- System Programming
+- Backend Development
+- Database Systems
+
+---
+
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivank-Garg45&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivank-Garg45&layout=compact&theme=tokyonight)
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/shivank-garg-413875305)
+- 🌐 Portfolio — Coming Soon
+- 🐙 [GitHub](https://github.com/Shivank-Garg45)
+
+---
+
+### 💻 Build. Learn. Experiment. Repeat.
