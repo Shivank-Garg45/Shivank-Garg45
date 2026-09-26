@@ -71,15 +71,6 @@ I'm currently focused on **C/C++, DSA, backend development, system programming, 
 
 ---
 
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivank-Garg45&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivank-Garg45&layout=compact&theme=tokyonight)
-
----
-
 ## 🤝 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/shivank-garg-413875305)
