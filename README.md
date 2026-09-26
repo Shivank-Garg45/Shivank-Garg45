@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./Github Banner.png" width="100%">
+</p>
+
+<br>
+
 # Hi, I'm Shivank Garg 👋
 
 ### CSE Student | Software Developer | Systems & Backend Enthusiast
