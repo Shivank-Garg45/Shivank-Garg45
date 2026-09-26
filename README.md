@@ -41,13 +41,6 @@ I like building projects around **C/C++, DSA, backend systems, databases and sys
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,nodejs,postgres,redis,docker,linux,git,github" />
 </p>
 
-### 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivank-Garg45&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivank-Garg45&layout=compact&theme=tokyonight&hide_border=true" height="170">
-</p>
-
 ### 🌐 Connect
 
 <p align="center">
