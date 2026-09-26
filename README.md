@@ -33,7 +33,7 @@ I like building projects around **C/C++, DSA, backend systems, databases and sys
 | 🌐 [**WebNotifier**](https://github.com/rishitaramola/WebNotifier) | High-concurrency website monitoring system |
 | 🖥️ [**8085 Simulator**](https://github.com/Shivank-Garg45/8085-Simulator) | C-based 8085 simulator with Raylib GUI |
 | 📇 [**Contact Management**](https://github.com/Shivank-Garg45/contact-management) | C-based contact & group management system |
-| 🛒 **QuickKart Hub** | DSA-based grocery management system |
+| 💻 [**GEU-FindNet**](https://github.com/Shivank-Garg45/GEU-FindNet) | Digital lost-and-found platform for the GEU community |
 
 ### 🧰 Technologies
 
