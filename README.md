@@ -20,11 +20,11 @@
 
 I'm **Shivank Garg**, a CSE student who enjoys understanding how software works beyond the surface.
 
-I like building projects around **C/C++, DSA, backend systems, databases and system programming** — while continuously learning through hands-on projects.
+I like building projects around **C/C++, DSA, backend systems, databases and system programming** while continuously learning through hands-on projects.
 
 ### 🔧 What I Build
 
-`Systems` • `Backend` • `DSA Projects` • `Full Stack` • `Developer Tools`
+`Systems` • `Backend` • `DSA Projects` • `Full Stack` 
 
 ### 🚀 Projects
 
