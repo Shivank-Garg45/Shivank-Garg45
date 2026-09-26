@@ -2,7 +2,7 @@
   <img src="./Github Banner.png" width="100%">
 </p>
 
-<h2 align="center">⚡ Building Things That Actually Work</h2>
+<h2 align="center">⚡ Building. Learning. Improving.</h2>
 
 <p align="center">
   CSE Student • Software Developer • Backend • DSA
@@ -24,7 +24,7 @@ I like building projects around **C/C++, DSA, backend systems, databases and sys
 
 ### 🔧 What I Build
 
-`Systems` • `Backend` • `DSA Projects` • `Full Stack` 
+`Systems` • `Backend` • `DSA` • `Full Stack` • `Developer Tools`
 
 ### 🚀 Projects
 
@@ -39,6 +39,13 @@ I like building projects around **C/C++, DSA, backend systems, databases and sys
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,nodejs,postgres,redis,docker,linux,git,github" />
+</p>
+
+### 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivank-Garg45&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivank-Garg45&layout=compact&theme=tokyonight&hide_border=true" height="170">
 </p>
 
 ### 🌐 Connect
