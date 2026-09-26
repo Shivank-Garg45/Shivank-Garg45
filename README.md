@@ -4,85 +4,176 @@
 
 <br>
 
-# Hi, I'm Shivank Garg 👋
+<h2 align="center">👨‍💻 About Me</h2>
 
-### CSE Student | Software Developer | Systems & Backend Enthusiast
+<p align="center">
+  <b>CSE Student • Software Developer • Systems & Backend Enthusiast</b>
+</p>
 
-I enjoy building practical software projects and exploring how systems work under the hood.
-
-I'm currently focused on **C/C++, DSA, backend development, system programming, and full-stack development.**
+<p align="center">
+  I enjoy building practical software projects and exploring how systems work under the hood.
+  <br>
+  Currently focused on DSA, C/C++, backend development, system programming and full-stack development.
+</p>
 
 ---
 
-## 🚀 What I'm Working On
+<h2 align="center">🚀 What I'm Working On</h2>
 
-- 🔧 Building system-oriented projects in C/C++
+- 🔧 Building system-oriented projects using C/C++
+
 - 🌐 Developing backend and full-stack applications
-- 🧠 Strengthening DSA and problem-solving
+
+- 🧠 Strengthening Data Structures & Algorithms
+
 - 💻 Exploring Operating Systems, Computer Networks and Computer Architecture
-- 🚀 Building projects that solve real-world problems
+
+- 🚀 Building real-world projects that solve practical problems
 
 ---
 
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
 ### Languages
 
-- C
-- C++
-- Java
-- JavaScript
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python" />
+</p>
 
 ### Backend & Systems
 
-- Node.js
-- REST APIs
-- Socket Programming
-- Multithreading
-- POSIX Threads
-
-### Databases
-
-- PostgreSQL
-- MySQL
-- Redis
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,docker,linux" />
+</p>
 
 ### Frontend
 
-- HTML
-- CSS
-- JavaScript
-- React.js
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+### Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
+</p>
 
 ### Tools
 
-- Git
-- GitHub
-- Docker
-- Linux
-- VS Code
-- Make
-- CMake
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,cmake" />
+</p>
 
 ---
 
-## 📚 Currently Learning
+<h2 align="center">📌 Featured Projects</h2>
 
-- Data Structures & Algorithms
-- Operating Systems
-- Computer Networks
-- System Programming
-- Backend Development
-- Database Systems
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🌐 WebNotifier
+
+High-concurrency website monitoring system with:
+
+- C++ concurrency engine
+- Worker pool
+- Thread-safe task queue
+- PostgreSQL
+- REST API
+- Website monitoring
+- Automated alerts
+
+</td>
+
+<td width="50%">
+
+### 🖥️ 8085 Simulator
+
+C-based Intel 8085 simulator featuring:
+
+- CPU simulation
+- Assembly instruction execution
+- Memory management
+- Instruction parser
+- Raylib GUI
+- Register & flag visualization
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📇 Contact Management
+
+C-based contact management system featuring:
+
+- Authentication
+- Contact management
+- Group management
+- File-based storage
+- GUI
+- Backend support
+
+</td>
+
+<td width="50%">
+
+### 🛒 QuickKart Hub
+
+DSA-based grocery management system featuring:
+
+- Inventory management
+- Order management
+- Linked lists
+- Queues
+- File handling
+- User & admin modules
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🤝 Connect With Me
+<h2 align="center">📚 Currently Learning</h2>
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/shivank-garg-413875305)
-- 🌐 Portfolio — Coming Soon
-- 🐙 [GitHub](https://github.com/Shivank-Garg45)
+<p align="center">
+
+Data Structures & Algorithms • Operating Systems • Computer Networks •
+System Programming • Backend Development • Database Systems
+
+</p>
 
 ---
 
-### 💻 Build. Learn. Experiment. Repeat.
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivank-Garg45&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivank-Garg45&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<h2 align="center">🤝 Connect With Me</h2>
+
+<p align="center">
+
+<a href="https://github.com/Shivank-Garg45">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/shivank-garg-413875305">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</p>
+
+---
+
+<h3 align="center">💻 Build • Learn • Experiment • Repeat</h3>
