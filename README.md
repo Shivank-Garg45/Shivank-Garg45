@@ -28,11 +28,11 @@ I like building projects around **C/C++, DSA, backend systems, databases and sys
 
 ### 🚀 Projects
 
-| Project | What it is |
+| Project | Description |
 |---|---|
-| 🌐 **WebNotifier** | High-concurrency website monitoring system |
-| 🖥️ **8085 Simulator** | C-based 8085 simulator with Raylib GUI |
-| 📇 **Contact Management** | C-based contact & group management system |
+| 🌐 [**WebNotifier**](https://github.com/rishitaramola/WebNotifier) | High-concurrency website monitoring system |
+| 🖥️ [**8085 Simulator**](https://github.com/Shivank-Garg45/8085-Simulator) | C-based 8085 simulator with Raylib GUI |
+| 📇 [**Contact Management**](https://github.com/Shivank-Garg45/contact-management) | C-based contact & group management system |
 | 🛒 **QuickKart Hub** | DSA-based grocery management system |
 
 ### 🧰 Technologies
