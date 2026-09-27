@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Github Banner.png" width="100%">
+  <img src="./github-banner.png" alt="Shivank Garg GitHub Banner" width="100%">
 </p>
 
 <h2 align="center">⚡ Building. Learning. Improving.</h2>
